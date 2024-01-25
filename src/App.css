@@ -1,0 +1,21 @@
+
+
+.image-fit {
+    
+    width: 100%;
+    /* Make the image width 100% of the container */
+    height: auto;
+    /* Maintain the aspect ratio */
+}
+
+.dark-mode {
+    background-color: #1e1e1e;
+    color: white;
+}
+
+/* Add styles for dark mode toggle icon */
+.App-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
