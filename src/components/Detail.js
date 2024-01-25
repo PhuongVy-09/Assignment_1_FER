@@ -43,7 +43,7 @@ export default function Detail() {
                     Year: {movie.year}
                 </Typography>
                 <RatingStar rating={rating} onRatingChange={handleRatingChange} startSixe={20} >Rate:</RatingStar>
-                <Typography variant="body1" paragraph >
+                <Typography variant="body1" sx={{fontSize:"14px"}} >
                     Summary: "{movie.info}"
                 </Typography>
             </Grid>

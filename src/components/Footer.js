@@ -11,7 +11,7 @@ export default class Footer extends Component {
           fontFamily: "fantasy",
           fontSize: "20px",
           margin: "10px"
-        }}>CinephilliaOnline &copy; 2023</p>
+        }}>CinephilliaOnline &copy; 2024</p>
       </div>
     )
   }
